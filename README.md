@@ -10,7 +10,7 @@ Working with the DOM and Events Fundamentals was really nice practice and prepar
 Links:
 
 - Solution URL: [Solution](https://github.com/Patarchanov/Guess-my-number)
-- Live Site URL: [Live site](https://patarchanov.github.io/Guess-my-number/)
+- Live Site URL: [Live game](https://patarchanov.github.io/Guess-my-number/)
 
 Built with:
 - JavaScript
